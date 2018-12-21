@@ -1,0 +1,6 @@
+//create and switch the branch
+$ git checkout -b pritesh
+
+
+//switch the branch
+$ git checkout pritesh

@@ -1,0 +1,3 @@
+// merge from child to master branch
+$ git merge pritesh master
+//after merge it will automatically commit the changes to the master

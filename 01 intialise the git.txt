@@ -1,0 +1,20 @@
+//logout from the git 
+$ git config --global --unset user.name
+$ git config --global --unset user.email
+
+//set username and email
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+//go to the folder and excute
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/pritesh25/GitCommand.git
+git push -u origin master
+
+
+//or push an existing repository from the command line
+git remote add origin https://github.com/pritesh25/a.git
+git push -u origin master
+
