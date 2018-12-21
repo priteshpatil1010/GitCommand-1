@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Vogella Project\\GitCommand\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\Download\\GitCommand-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\d7f7c0a5244879d5bbd29a49bd03755c\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Patil Pritesh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3577fea18aaa1699b7d6b085c85efa61\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
